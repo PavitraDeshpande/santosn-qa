@@ -88,9 +88,8 @@ Feature: Stripe Payment Flow - Card Payment Validations
             | 4000000000000069 | 12 / 26    | 123 | Your card has expired.                          |
             | 4000000000000119 | 12 / 26    | 123 | An error occurred while processing your card.   |
 
-            ```
-            
+```
+
 ## recorded demo
 
-[https://github.com/santosn-qa/wdio-cucumber-js/assets/26606116/c3e31997-a7a7-4c63-85cb-da78ae2acc5a
-](https://github-production-user-asset-6210df.s3.amazonaws.com/26606116/237280660-c3e31997-a7a7-4c63-85cb-da78ae2acc5a.mp4)
+[DEMO](https://github-production-user-asset-6210df.s3.amazonaws.com/26606116/237280660-c3e31997-a7a7-4c63-85cb-da78ae2acc5a.mp4)
