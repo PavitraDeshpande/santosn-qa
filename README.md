@@ -92,4 +92,4 @@ Feature: Stripe Payment Flow - Card Payment Validations
 
 ## recorded demo
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/26606116/237280660-c3e31997-a7a7-4c63-85cb-da78ae2acc5a.mp4
+https://github.com/santosn-qa/wdio-cucumber-js/assets/26606116/0e32d218-a9de-4e2f-a870-19c7a86a5b03
