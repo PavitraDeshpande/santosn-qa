@@ -1,7 +1,7 @@
 # wdio-cucumber-js
 This is a demonstration of automated testing for the [Stripe Demo Site](https://stripe-payments-demo.appspot.com/)
 
-Authored by: Nourilee Santos
+Find the public repository [here](https://github.com/santosn-qa/wdio-cucumber-js) | Authored by: Nourilee Santos
 
 ## frameworks
 These tests are developed in Javascript with:
